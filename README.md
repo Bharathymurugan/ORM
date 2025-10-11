@@ -44,7 +44,8 @@ class Car_InventoryAdmin(admin.ModelAdmin):
     list_display=['Plate_no', 'Car_type', 'Car_brand', 'Manufacturing_date', 'Car_color', 'Price', 'Mileage']
 ```
 # OUTPUT!
-[alt text](<Screenshot 2025-09-26 212235.png>)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1320f304-19b1-4aa8-a58b-0de7b1b7617f" />
+
 
 
 # RESULT
